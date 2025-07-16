@@ -64,6 +64,7 @@ function showSoftware() {
 // Simulate exit (customize as needed)
 function exitApp() {
   alert('Exiting the application...');
+  window.close()
 }
 
 // Display selected project details
